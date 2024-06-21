@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Tharun",
+    "email": "arun.idk20@gmail.com",
+    "phone": "9994314322",
+    "githubLink": "https://github.com/",
+    "stopwatchTime": "00:00:03"
+  },
+  {
+    "name": "John Doe",
+    "email": "john@gmail.com",
+    "phone": "8889769871",
+    "githubLink": "https://github.com/getmeaname",
+    "stopwatchTime": "00:00:04"
+  },
+  {
+    "name": "Parker",
+    "email": "parker@gmail.com",
+    "phone": "9827637126",
+    "githubLink": "www.google.com",
+    "stopwatchTime": "00:00:00"
+  },
+  {
+    "name": "Ebineizer",
+    "email": "ebi@yahoo.com",
+    "phone": "123456789",
+    "githubLink": "www.google.com",
+    "stopwatchTime": "00:00:06"
+  }
+]
