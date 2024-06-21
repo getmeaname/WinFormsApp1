@@ -24,8 +24,8 @@ This is a Submission Management System built using a TypeScript Express backend 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name/backend
+    git clone https://github.com/your-username/WinFormsApp1.git
+    cd WinFormsApp1/backend
     ```
 
 2. **Install dependencies:**
